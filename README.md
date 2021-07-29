@@ -53,6 +53,7 @@ _Reference URL_:: _IAM User creation [article](https://docs.aws.amazon.com/IAM/l
 2. _Any bucket name as you wish and then please enable versioning (that you upload same file multiple times or modified versions uploaded that the S3 stored as a version bases like Git)_
 ![alt_txt](https://i.ibb.co/kXCQJfQ/S3-3.png)
 3. _Click create bucket_
+
 ![alt_txt](https://i.ibb.co/chwztWB/S3-4.png)
 
 > Reference URL:: Creating S3 bucket please use this [doc](https://docs.aws.amazon.com/AmazonS3/latest/userguide/create-bucket-overview.html) and you can secure your bucket with IAM user using S3 [bucket policy](https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-iam-policies.html)
