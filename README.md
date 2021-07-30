@@ -122,7 +122,7 @@ else:
         transfer.upload_file(tarname, var.BUCKET_NAME, 'backup/{}.tar.gz'.format(dirname))
         print('Backup succesfully uploaded to your S3 bucket', var.BUCKET_NAME)
     
-#remove temporary backup from local
+# Remove temporary backup from local
         os.remove(tarname)
     else:
         print('Please enter a valid directory path')
