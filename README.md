@@ -65,6 +65,8 @@ yum install -y git
 yum install -y python3
 yum install -y python3-pip
 ```
+
+### How to get
 ```sh
 git clone https://github.com/yousafkhamza/backup-to-s3-pyscript.git
 cd backup-to-s3-pyscript
